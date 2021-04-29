@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "book": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+      "link": "https://www.amazon.in/gp/product/1612680194/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1612680194&linkCode=as2&tag=arrevolution-21&linkId=9679809c15e9b2a725ab49a33365485d",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wOOMQ+F3L._SY344_BO1,204,203,200_.jpg"
+    },
+    {
+      "book": "The Psychology of Money",
+      "link": "https://amzn.to/2S4lpg8",
+
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41cWqh0OeQL._SX321_BO1,204,203,200_.jpg"
+    },
+    {
+      "book": "Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World",
+      "link": "https://amzn.to/3h0s99x",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51HKM+CvPnL._SY344_BO1,204,203,200_.jpg"
+    },
+
+    {
+      "book": "Zero to One: Notes on Start Ups, or How to Build the Future",
+      "link": "https://amzn.to/3aNTYxJ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51z7mZZKRgL._SX317_BO1,204,203,200_.jpg"
+    },
+    {
+      "book": "The Richest Man in Babylon",
+      "link": "https://amzn.to/2R6wpcr",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51pLtgRCXSL._SX323_BO1,204,203,200_.jpg"
+    },
+
+    {
+      "book": "Rich Dad's Cashflow Quadrant: Guide to Financial Freedom",
+      "link": "https://amzn.to/3sZWnf6",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51ji6oOE+eL._SY344_BO1,204,203,200_.jpg"
+    },
+
+    {
+      "book": "FAKE: How Lies Are Making the Poor and Middle Class Poorer",
+      "link": "https://amzn.to/2PvT9lE",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41PPARPFqNL._SX331_BO1,204,203,200_.jpg"
+    }
+  ]
+}
